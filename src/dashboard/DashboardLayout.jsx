@@ -2,7 +2,7 @@
 import React from 'react'
 import { Outlet } from 'react-router-dom'
 // Example using absolute path
-import Sidebar from 'src/dashboard/Sidebar';
+import Sidebar from './Sidebar';
 
 
 const DashboardLayout = () => {
